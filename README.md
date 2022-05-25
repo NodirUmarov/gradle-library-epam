@@ -14,6 +14,6 @@ To install the library add:
         maven { url "https://jitpack.io" }
    }
    dependencies {
-	        implementation 'com.github.NodirUmarov:gradle-library-epam:1.3.5-alpha'
+	        implementation 'com.github.NodirUmarov:gradle-library-epam:1.3.5-beta'
    }
    ```  
